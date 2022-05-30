@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://lovre12.github.io/csb-mdj1qp/static/css/main.f003bcd4.chunk.css",
-    "main.js": "https://lovre12.github.io/csb-mdj1qp/static/js/main.147bf6ee.chunk.js",
-    "main.js.map": "https://lovre12.github.io/csb-mdj1qp/static/js/main.147bf6ee.chunk.js.map",
+    "main.js": "https://lovre12.github.io/csb-mdj1qp/static/js/main.82b0eeaf.chunk.js",
+    "main.js.map": "https://lovre12.github.io/csb-mdj1qp/static/js/main.82b0eeaf.chunk.js.map",
     "runtime-main.js": "https://lovre12.github.io/csb-mdj1qp/static/js/runtime-main.ef1c5a8b.js",
     "runtime-main.js.map": "https://lovre12.github.io/csb-mdj1qp/static/js/runtime-main.ef1c5a8b.js.map",
-    "static/js/2.eb6cc0bc.chunk.js": "https://lovre12.github.io/csb-mdj1qp/static/js/2.eb6cc0bc.chunk.js",
-    "static/js/2.eb6cc0bc.chunk.js.map": "https://lovre12.github.io/csb-mdj1qp/static/js/2.eb6cc0bc.chunk.js.map",
+    "static/js/2.5b1843a5.chunk.js": "https://lovre12.github.io/csb-mdj1qp/static/js/2.5b1843a5.chunk.js",
+    "static/js/2.5b1843a5.chunk.js.map": "https://lovre12.github.io/csb-mdj1qp/static/js/2.5b1843a5.chunk.js.map",
     "index.html": "https://lovre12.github.io/csb-mdj1qp/index.html",
     "static/css/main.f003bcd4.chunk.css.map": "https://lovre12.github.io/csb-mdj1qp/static/css/main.f003bcd4.chunk.css.map",
-    "static/js/2.eb6cc0bc.chunk.js.LICENSE.txt": "https://lovre12.github.io/csb-mdj1qp/static/js/2.eb6cc0bc.chunk.js.LICENSE.txt",
+    "static/js/2.5b1843a5.chunk.js.LICENSE.txt": "https://lovre12.github.io/csb-mdj1qp/static/js/2.5b1843a5.chunk.js.LICENSE.txt",
     "static/media/boat.bc3e9063.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/boat.bc3e9063.jpg",
     "static/media/boat2.6e562e56.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/boat2.6e562e56.jpg",
     "static/media/boat3.6d39b866.png": "https://lovre12.github.io/csb-mdj1qp/static/media/boat3.6d39b866.png",
@@ -26,7 +26,7 @@
     "static/media/plane1.6722ec1c.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/plane1.6722ec1c.jpg",
     "static/media/plane2.2d8c4e67.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/plane2.2d8c4e67.jpg",
     "static/media/plane3.1a31099c.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/plane3.1a31099c.jpg",
-    "static/media/plit1.efbc01fb.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/plit1.efbc01fb.jpg",
+    "static/media/plit1.8ff97f83.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/plit1.8ff97f83.jpg",
     "static/media/regimg.38f078c8.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/regimg.38f078c8.jpg",
     "static/media/solin.8fb86823.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/solin.8fb86823.jpg",
     "static/media/split.4fbe0b3b.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/split.4fbe0b3b.jpg",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ef1c5a8b.js",
-    "static/js/2.eb6cc0bc.chunk.js",
+    "static/js/2.5b1843a5.chunk.js",
     "static/css/main.f003bcd4.chunk.css",
-    "static/js/main.147bf6ee.chunk.js"
+    "static/js/main.82b0eeaf.chunk.js"
   ]
 }
