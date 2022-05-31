@@ -5,11 +5,11 @@
     "main.js.map": "https://lovre12.github.io/csb-mdj1qp/static/js/main.147bf6ee.chunk.js.map",
     "runtime-main.js": "https://lovre12.github.io/csb-mdj1qp/static/js/runtime-main.ef1c5a8b.js",
     "runtime-main.js.map": "https://lovre12.github.io/csb-mdj1qp/static/js/runtime-main.ef1c5a8b.js.map",
-    "static/js/2.59dcb72e.chunk.js": "https://lovre12.github.io/csb-mdj1qp/static/js/2.59dcb72e.chunk.js",
-    "static/js/2.59dcb72e.chunk.js.map": "https://lovre12.github.io/csb-mdj1qp/static/js/2.59dcb72e.chunk.js.map",
+    "static/js/2.f9d5bd83.chunk.js": "https://lovre12.github.io/csb-mdj1qp/static/js/2.f9d5bd83.chunk.js",
+    "static/js/2.f9d5bd83.chunk.js.map": "https://lovre12.github.io/csb-mdj1qp/static/js/2.f9d5bd83.chunk.js.map",
     "index.html": "https://lovre12.github.io/csb-mdj1qp/index.html",
     "static/css/main.f003bcd4.chunk.css.map": "https://lovre12.github.io/csb-mdj1qp/static/css/main.f003bcd4.chunk.css.map",
-    "static/js/2.59dcb72e.chunk.js.LICENSE.txt": "https://lovre12.github.io/csb-mdj1qp/static/js/2.59dcb72e.chunk.js.LICENSE.txt",
+    "static/js/2.f9d5bd83.chunk.js.LICENSE.txt": "https://lovre12.github.io/csb-mdj1qp/static/js/2.f9d5bd83.chunk.js.LICENSE.txt",
     "static/media/boat.bc3e9063.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/boat.bc3e9063.jpg",
     "static/media/boat2.6e562e56.jpg": "https://lovre12.github.io/csb-mdj1qp/static/media/boat2.6e562e56.jpg",
     "static/media/boat3.6d39b866.png": "https://lovre12.github.io/csb-mdj1qp/static/media/boat3.6d39b866.png",
@@ -34,7 +34,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ef1c5a8b.js",
-    "static/js/2.59dcb72e.chunk.js",
+    "static/js/2.f9d5bd83.chunk.js",
     "static/css/main.f003bcd4.chunk.css",
     "static/js/main.147bf6ee.chunk.js"
   ]
